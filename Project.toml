@@ -1,0 +1,13 @@
+name = "Reiwa"
+uuid = "5a9fbca4-61c1-11e9-1e9c-f540f58050d5"
+authors = ["antimon2 <antimon2.me@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+Unicode = "4ec0a83e-493e-50e2-b9ac-8f72acf5a8f5"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
